@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Océane VILLENEUVE</h1>
 <h2 align="center">I'm a junior frontend developer</h3>
-<div align="center">
+
  <ul>
   <li>
    I’m currently working on an app with some friends call **meetsicians** 🎸.
@@ -15,7 +15,7 @@
    You can reach me at **oceanevilleneuve16@@gmail.com**
   </li>
  </ul>
-</div>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
