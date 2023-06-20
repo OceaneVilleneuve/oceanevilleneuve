@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Océane VILLENEUVE</h1>
 <h3 align="center">I'm a junior frontend developer</h3>
 <div align="center">
-- I’m currently working on an app with some friends call **meetsicians**. 🎸
+ I’m currently working on an app with some friends call **meetsicians**. 🎸
 
-- I’m currently learning **Ruby on Rails**. 
+ I’m currently learning **Ruby on Rails**. 
 
-- I’m looking for my **first job** as a Front-end dev.
+ I’m looking for my **first job** as a Front-end dev.
 
-- You can reach me at **oceanevilleneuve16@@gmail.com**
+ You can reach me at **oceanevilleneuve16@@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
