@@ -2,15 +2,21 @@
 <h2 align="center">I'm a junior frontend developer</h3>
 <div align="center">
  <ul>
- I’m currently working on an app with some friends call **meetsicians**. 🎸
-
- I’m currently learning **Ruby on Rails**. 
-
- I’m looking for my **first job** as a Front-end dev.
-
- You can reach me at **oceanevilleneuve16@@gmail.com**
+  <li>
+   I’m currently working on an app with some friends call **meetsicians** 🎸.
+  </li>
+  <li>
+   I’m currently learning **Ruby on Rails**. 
+  </li>
+  <li>
+   I’m looking for my **first job** as a Front-end dev.
+  </li>
+  <li>
+   You can reach me at **oceanevilleneuve16@@gmail.com**
+  </li>
  </ul>
 </div>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/océane-villeneuve-746449277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oceanevilleneuve" height="30" width="40" /></a>
