@@ -9,7 +9,7 @@
    I’m currently learning **Ruby on Rails**. 
   </li>
   <li>
-   I’m looking for my **first job** as a Front-end dev.
+   I’m looking for my **first job** as a Front-end or fullstack dev.
   </li>
   <li>
    You can reach me at **oceanevilleneuve16@@gmail.com**
