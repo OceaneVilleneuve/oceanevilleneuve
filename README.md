@@ -3,16 +3,16 @@
 
  <ul>
   <li>
-   I’m currently working on an app with some friends call **meetsicians** 🎸.
+   I’m currently working on an app with some friends call MEETSICIANS 🎸.
   </li>
   <li>
-   I’m currently learning **Ruby on Rails**. 
+   I’m currently learning Ruby on Rails and React. 
   </li>
   <li>
    I’m looking for my **first job** as a Front-end or fullstack dev.
   </li>
   <li>
-   You can reach me at **oceanevilleneuve16@@gmail.com**
+   You can reach me at - oceanevilleneuve16@@gmail.com - 
   </li>
  </ul>
 
