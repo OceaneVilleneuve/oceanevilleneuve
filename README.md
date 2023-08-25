@@ -3,7 +3,7 @@
 
  <ul>
   <li>
-   My CV and portfolio are available online on my website : www.oceane-villeneuve.fr 💻
+   My CV, portfolio and contact form are available online on my website : www.oceane-villeneuve.fr 💻.
   </li>
   <li>
    I’m currently working on an app with some friends call MEETSICIANS 🎸.
@@ -15,7 +15,7 @@
    I’m looking for my **first job** as a Front-end or fullstack dev.
   </li>
   <li>
-   You can reach me at - oceanevilleneuve16@@gmail.com - 
+   You can reach me with my informations available on my website.
   </li>
  </ul>
 
