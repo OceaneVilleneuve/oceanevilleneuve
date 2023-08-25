@@ -3,6 +3,9 @@
 
  <ul>
   <li>
+   My CV and portfolio are available online on my website : www.oceane-villeneuve.fr 💻
+  </li>
+  <li>
    I’m currently working on an app with some friends call MEETSICIANS 🎸.
   </li>
   <li>
