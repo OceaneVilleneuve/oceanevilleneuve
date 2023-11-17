@@ -12,7 +12,7 @@
    I’m currently working on an app with some friends call MEETSICIANS 🎸.
   </li>
   <li>
-   I’m currently learning Ruby on Rails and React. 
+   I’m currently learning Ruby on Rails, React and Wordpress. 
   </li>
   <li>
    I’m looking for my **first job** as a Front-end or fullstack dev.
